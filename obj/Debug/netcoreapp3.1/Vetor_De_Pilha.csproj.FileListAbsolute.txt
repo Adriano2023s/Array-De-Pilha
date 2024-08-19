@@ -1,0 +1,14 @@
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Vetor_De_Pilha\Vetor_De_Pilha\obj\Debug\netcoreapp3.1\Vetor_De_Pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Vetor_De_Pilha\Vetor_De_Pilha\obj\Debug\netcoreapp3.1\Vetor_De_Pilha.AssemblyInfoInputs.cache
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Vetor_De_Pilha\Vetor_De_Pilha\obj\Debug\netcoreapp3.1\Vetor_De_Pilha.AssemblyInfo.cs
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Vetor_De_Pilha\Vetor_De_Pilha\obj\Debug\netcoreapp3.1\Vetor_De_Pilha.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Vetor_De_Pilha\Vetor_De_Pilha\obj\Debug\netcoreapp3.1\Vetor_De_Pilha.sourcelink.json
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Vetor_De_Pilha\Vetor_De_Pilha\bin\Debug\netcoreapp3.1\Vetor_De_Pilha.exe
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Vetor_De_Pilha\Vetor_De_Pilha\bin\Debug\netcoreapp3.1\Vetor_De_Pilha.deps.json
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Vetor_De_Pilha\Vetor_De_Pilha\bin\Debug\netcoreapp3.1\Vetor_De_Pilha.runtimeconfig.json
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Vetor_De_Pilha\Vetor_De_Pilha\bin\Debug\netcoreapp3.1\Vetor_De_Pilha.runtimeconfig.dev.json
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Vetor_De_Pilha\Vetor_De_Pilha\bin\Debug\netcoreapp3.1\Vetor_De_Pilha.dll
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Vetor_De_Pilha\Vetor_De_Pilha\bin\Debug\netcoreapp3.1\Vetor_De_Pilha.pdb
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Vetor_De_Pilha\Vetor_De_Pilha\obj\Debug\netcoreapp3.1\Vetor_De_Pilha.dll
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Vetor_De_Pilha\Vetor_De_Pilha\obj\Debug\netcoreapp3.1\Vetor_De_Pilha.pdb
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Vetor_De_Pilha\Vetor_De_Pilha\obj\Debug\netcoreapp3.1\Vetor_De_Pilha.genruntimeconfig.cache
