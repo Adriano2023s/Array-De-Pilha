@@ -40,6 +40,12 @@ namespace Vetor_De_Pilha
             Console.WriteLine("Digite um nome para adicionar na lista");
             string nome = Console.ReadLine();
 
+            if (ListaCheia(ListaNomes))
+            {
+                Console.WriteLine("A lista está cheia. Remova um item para continuar adicionando");
+                return;
+            }
+
             if (ListaNomes.Length == 0)
             {
                 Console.WriteLine("A lista esttá vazia.");
@@ -51,6 +57,7 @@ namespace Vetor_De_Pilha
                 ListaNomes[i] = ListaNomes[i - 1];
             }
 
+            
             ListaNomes[0] = nome;
             Console.WriteLine($"O nome: {nome}, foi adicionado");
             return;
@@ -92,6 +99,16 @@ if (ListaNomes == null || ListaNomes.Length == 0)
             return;
         }   
    
-
+public static bool ListaCheia(string[] ListaNomes)
+        {
+for (int i = 0; i < ListaNomes.Length; i++)
+            {
+                if (ListaNomes[i] == null)
+                {
+                    return false;
+                }
+            }
+return true;
+        }
     }
 }
