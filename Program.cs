@@ -15,6 +15,7 @@ namespace Vetor_De_Pilha
                 Console.WriteLine("Escolha uma opção");
                 Console.WriteLine("Opção 1: Adicionar um nome na lista");
                 Console.WriteLine("Opção 2: Imprimir os nomes da lista");
+                Console.WriteLine("Opção 3: Remover um item da lista");
                 int opcao = int.Parse(Console.ReadLine());
 
                 switch (opcao)
@@ -25,6 +26,10 @@ namespace Vetor_De_Pilha
 
                     case 2:
                         ImprimeLista(nomes);
+                        break;
+
+                        case 3:
+                        Pop(nomes);
                         break;
                 }
             }
@@ -63,6 +68,30 @@ namespace Vetor_De_Pilha
             }
             return;
         }
+
+public static void Pop(string[] ListaNomes)
+        {
+            Console.WriteLine("Removendo o item da lista:");
+if (ListaNomes == null || ListaNomes.Length == 0)
+            {
+                Console.WriteLine("A lista está vazia");
+                return;
+            }
+
+            string nomeRemovido = ListaNomes[0];
+
+            for (int i = 1; i < ListaNomes.Length; i++)
+                {
+                ListaNomes[i - 1] = ListaNomes[i];
+            }
+
+            ListaNomes[ListaNomes.Length - 1] = null;
+
+            Console.WriteLine($"O nome: {nomeRemovido}, foi removido");
+
+            return;
+        }   
    
+
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vetor_De_Pilha")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3944b887614668345cdb78e9fc043fba94aa840")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ce6edf3ccbe171c0f2bb5915d4bd18468d6efaa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vetor_De_Pilha")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vetor_De_Pilha")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
